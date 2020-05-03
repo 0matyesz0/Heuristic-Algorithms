@@ -1,0 +1,23 @@
+﻿<Window x:Class="Problems.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Problems"
+        xmlns:functionapproximation="clr-namespace:Problems.FunctionApproximation"
+        xmlns:workassignment="clr-namespace:Problems.WorkAssignment"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1200">
+    <Window.Resources>
+        <functionapproximation:FunctionViewModel x:Key="VM"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource VM}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <functionapproximation:Function Width="400" Height="600" DataContext="{Binding}" Grid.Column="0"/>
+        <workassignment:WorkAssignmentControl Width="400" Height="600" DataContext="{Binding}" Grid.Column="1"/>
+    </Grid>
+</Window>

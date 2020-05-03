@@ -1,0 +1,24 @@
+﻿<Window x:Class="halal_bead.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:halal_bead"
+        xmlns:viewmodels="clr-namespace:halal_bead.ViewModels"
+        xmlns:usercontrols="clr-namespace:halal_bead.UserControls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1600">
+    <Window.Resources>
+        <viewmodels:MainViewModel x:Key="VM"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource VM}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <usercontrols:WorkAssignmentControl x:Name="workAssignControl" DataContext="{Binding WorkAssignmentVM}" Grid.Column="0"/>
+        <usercontrols:FunctionControl x:Name="functionControl" DataContext="{Binding FunctionVM}" Grid.Column="1"/>
+        <usercontrols:TravelingAgentControl x:Name="travelingAgentControl" DataContext="{Binding TravelingAgentVM}" Grid.Column="2"/>
+    </Grid>
+</Window>

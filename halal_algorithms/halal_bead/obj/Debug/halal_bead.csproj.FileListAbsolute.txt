@@ -1,0 +1,120 @@
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\bin\Debug\halal_bead.exe.config
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\bin\Debug\halal_bead.exe
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\bin\Debug\halal_bead.pdb
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\halal_bead.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\MainWindow.g.cs
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\App.g.cs
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\halal_bead_MarkupCompile.cache
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\halal_bead_MarkupCompile.lref
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\MainWindow.baml
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\halal_bead.g.resources
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\halal_bead.Properties.Resources.resources
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\halal_bead.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\halal_bead.exe
+D:\Microsoft Visual Studio\projects\halal_bead\halal_bead\obj\Debug\halal_bead.pdb
+D:\VI.felev\halal\halal_bead\halal_bead\bin\Debug\halal_bead.exe.config
+D:\VI.felev\halal\halal_bead\halal_bead\bin\Debug\halal_bead.exe
+D:\VI.felev\halal\halal_bead\halal_bead\bin\Debug\halal_bead.pdb
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\MainWindow.g.cs
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\App.g.cs
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\halal_bead_MarkupCompile.cache
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\halal_bead_MarkupCompile.lref
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\MainWindow.baml
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\halal_bead.g.resources
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\halal_bead.Properties.Resources.resources
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\halal_bead.csproj.GenerateResource.cache
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\halal_bead.exe
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\halal_bead.pdb
+D:\VI.felev\halal\halal_bead\halal_bead\obj\Debug\halal_bead.csprojAssemblyReference.cache
+D:\VI.felev\halal\halal_bead2\halal_bead\bin\Debug\halal_bead.exe.config
+D:\VI.felev\halal\halal_bead2\halal_bead\bin\Debug\halal_bead.exe
+D:\VI.felev\halal\halal_bead2\halal_bead\bin\Debug\halal_bead.pdb
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\halal_bead.csprojAssemblyReference.cache
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\MainWindow.g.cs
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\App.g.cs
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\halal_bead_MarkupCompile.cache
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\halal_bead_MarkupCompile.lref
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\MainWindow.baml
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\halal_bead.g.resources
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\halal_bead.Properties.Resources.resources
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\halal_bead.csproj.GenerateResource.cache
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\halal_bead.exe
+D:\VI.felev\halal\halal_bead2\halal_bead\obj\Debug\halal_bead.pdb
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\halal_bead.csprojAssemblyReference.cache
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\MainWindow.g.cs
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\App.g.cs
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\halal_bead_MarkupCompile.cache
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\halal_bead_MarkupCompile.lref
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\halal_bead.exe
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\halal_bead.pdb
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\halal_bead.exe.config
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\halal_bead.exe
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\halal_bead.pdb
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\CommonServiceLocator.dll
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\GalaSoft.MvvmLight.dll
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\Prism.dll
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\System.ValueTuple.dll
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\System.Windows.Interactivity.dll
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\GalaSoft.MvvmLight.xml
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\Prism.pdb
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\Prism.xml
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\System.ValueTuple.xml
+D:\VI.felev\halal\halal_bead3\halal_bead\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\UserControls\FunctionControl.g.cs
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\UserControls\WorkAssignmentControl.g.cs
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\MainWindow.baml
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\UserControls\FunctionControl.baml
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\UserControls\WorkAssignmentControl.baml
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\halal_bead.g.resources
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\halal_bead.Properties.Resources.resources
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\halal_bead.csproj.GenerateResource.cache
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\halal_bead.csproj.CopyComplete
+D:\VI.felev\halal\halal_bead3\halal_bead\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\halal_bead.exe.config
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\halal_bead.exe
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\halal_bead.pdb
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\CommonServiceLocator.dll
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\GalaSoft.MvvmLight.dll
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\Prism.dll
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\System.ValueTuple.dll
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\System.Windows.Interactivity.dll
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\GalaSoft.MvvmLight.xml
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\Prism.pdb
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\Prism.xml
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\System.ValueTuple.xml
+D:\VI.felev\halal\halal_bead4\halal_bead\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\halal_bead.csprojAssemblyReference.cache
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\MainWindow.g.cs
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\UserControls\FunctionControl.g.cs
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\UserControls\WorkAssignmentControl.g.cs
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\App.g.cs
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\halal_bead_MarkupCompile.cache
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\halal_bead_MarkupCompile.lref
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\MainWindow.baml
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\UserControls\FunctionControl.baml
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\UserControls\WorkAssignmentControl.baml
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\halal_bead.g.resources
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\halal_bead.Properties.Resources.resources
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\halal_bead.csproj.GenerateResource.cache
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\halal_bead.csproj.CopyComplete
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\halal_bead.exe
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\halal_bead.pdb
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\UserControls\TravelingAgentControl.g.cs
+D:\VI.felev\halal\halal_bead4\halal_bead\obj\Debug\UserControls\TravelingAgentControl.baml
